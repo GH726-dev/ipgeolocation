@@ -4,7 +4,7 @@ ip geo location get info like location , isp , org , country and more ...
 
 ### Installation : 
 
-` git clone https://github.com/BlackFoxTM/ipgeolocation `
+` git clone https://github.com/GH726-dev/ipgeolocation `
 
 ` cd ipgeolocation `
 
